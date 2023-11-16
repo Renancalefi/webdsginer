@@ -1,0 +1,12 @@
+.cabeçalho{
+    width: 100%;
+    padding: 1%;
+    background-color: black;
+}
+.bot{
+    display:flex;
+}
+.bot nav a{
+
+    color: white;
+}
