@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.branco {
+    color: white;
+}
+.cabeçalho{
+    width: 100%;
+    padding: 1%;
+    background-color: black;
+}
+.bot{
+    padding: 1%;
+    margin-left: 40%;
+    text-align: center;
+    display: flex;
+    margin-top: -2%;
+}
+.bot nav a{
+    
+    margin-left: 15px;
+    text-decoration: none;
+    color: white;
+}
+.quadrado{
+    height: 100px ;
+    width: 100px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+}
