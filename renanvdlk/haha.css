@@ -7,6 +7,8 @@
     color: white;
 }
 .cabeçalho{
+    top:0;
+    left: 0;
     width: 100%;
     padding: 1%;
     background-color: black;
@@ -37,17 +39,18 @@
     width: 100%;    
 }
 .meio{
-    margin-top: 20%;
+    margin-top: 19%;
 }
 .modelos{
     display: flex;
 }
-.card1{
+.card{
     margin-left:20px ;
 }
-.card2{
-    margin-left: 40px;
+.modelos1{
+    display: flex;
+    margin-left: 15%;
 }
-.card3{
-    margin-left: 50px;
+.meio1{
+    margin-top: 3%;
 }
